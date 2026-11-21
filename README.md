@@ -1,16 +1,9 @@
-# Análisis II — Segundo cuatrimestre de 2011
+# Análisis II - Análisis Matemático II - Matemática 3
 
-## Prácticas
+Segundo Cuatrimestre 2011
 
-- [Práctica 0:](Pract0.pdf)
-- [Práctica 1:](Pract1.pdf)
-- [Práctica 2:](Pract2.pdf)
-- [Práctica 3:](pract3.pdf)
-- [Práctica 4:](pract4.pdf)
-- [Práctica 5:](Pract5.pdf)
-- [Práctica 6:](pract6.pdf)
-- [Práctica 7:](pract7.pdf)
+### Novedades
 
-## Página original
-
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2011/analisis_II/)
+|  |
+| --- |
+| - Aviso Importante: El tema "Linearización" entra en el examen final. (Corresponde a los ejercicios 9, 10, 11 y 12 de la Práctica 7). |
